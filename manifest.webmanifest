@@ -1,0 +1,19 @@
+{
+  "name": "تحميل تطبيق نادي الحي المدرسي",
+  "short_name": "نادي الحي",
+  "description": "صفحة تنزيل تطبيق نادي الحي المدرسي للجوال.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f9fcfb",
+  "theme_color": "#075d4d",
+  "icons": [
+    {
+      "src": "./assets/app-icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
